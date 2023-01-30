@@ -10,6 +10,7 @@ This project is about opening a .txt file and converting it into a table, then s
 <p> pandas <br>
 json <br>
 csv <br>
+glob <br>
 os <br>
 </p><br><br>
 <h1><B>Python Packages and Functions Used</h1><B> <br>
