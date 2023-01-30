@@ -3,13 +3,15 @@
 
   
 <h1><B>Introduction</h1><B>
+  
 This project is about opening a .txt file and converting it into a table, then saving it to a .csv file.
 
-Requirements
-pandas
-json
-csv
-os
+<h1><B>Requirements</h1><B>
+<p> pandas \n
+json \n
+csv \n
+os \n
+</p>
 Python Packages and Functions Used
 pandas: used to create dataframes and concatenate them
 json: used to load the data from the .txt file into a dictionary
