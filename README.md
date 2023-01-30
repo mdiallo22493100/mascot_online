@@ -6,11 +6,11 @@
   
 This project is about opening a .txt file and converting it into a table, then saving it to a .csv file.
 
-<h1><B>Requirements</h1><B>
-<p> pandas \n
-json \n
-csv \n
-os \n
+<h1><B>Requirements</h1><B> <br>
+<p> pandas <br>
+json <br>
+csv <br>
+os <br>
 </p>
 Python Packages and Functions Used
 pandas: used to create dataframes and concatenate them
