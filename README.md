@@ -23,19 +23,19 @@ os: used to create an absolute path to the .txt file<br><br>
 
 The code contains three functions: create_dataframe function, write_csv function (bonus : create_dataframe_folder function)<br><br>
 
-<h3><B>create_dataframe function</h3><B> <br>
+<li><h2><B>create_dataframe() function</h2><B> <br>
   
 The function takes two inputs, file_name and df_fct, where file_name is the name of the .txt file and df_fct is the existing dataframe. The function loads the data from the .txt file using json.load and creates a new dataframe from the data. Then, it extracts specific columns from the dataframe, creates new columns based on the values of the 'Attributes' column, drops the 'Attributes' column, and appends the new dataframe to the existing one. The new dataframe is returned.<br><br>
 
-<h3><B>write_csv function</h3><B> <br>
+<li><h2><B>write_csv() function</h2><B> <br>
   
 The function takes one input, df_fct, which is the dataframe that will be written into a .csv file. The function creates a new .csv file using csv.writer and writes the data from the dataframe into the file.<br><br>
   
-<h3><B>"create_dataframe_folder function"</h3><B> <br>
+<li><h2><B>"create_dataframe_folder() function"</h2><B> <br>
   
  Same as create_dataframe functions adapted for multiple json files as input, it will add multiple row on the dataframe<br><br>
   
-<h1><B> Other functions</h1><B> <br>
+<h2><B> Other functions</h2><B> <br>
   
  <li>os: The os package is used to interface with the underlying operating system and perform various tasks related to the file system, such as creating an absolute path to a file.<br><br>
 
