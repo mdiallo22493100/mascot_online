@@ -1,6 +1,8 @@
 # mascot_online
-<h1><B>README<B><h1>
-Introduction
+<h><B>README<B></h>
+
+  
+<h1><B>Introduction</h1><B>
 This project is about opening a .txt file and converting it into a table, then saving it to a .csv file.
 
 Requirements
